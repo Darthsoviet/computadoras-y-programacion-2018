@@ -10,7 +10,7 @@ scanf("%d",&edad);
 ;
 printf("tu edad es =%d \n",edad);
 printf("maximo=%d\n",MAX);
-printf("valor de PI=%F",PI);
+printf("valor de PI=%F",PI);//printf("valor de PI=%f",PI);
 
 return 0;
 }
