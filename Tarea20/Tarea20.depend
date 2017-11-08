@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510153136 source:/home/ivan/Escritorio/programacion/tarea 20/Tarea20/tarea 20 b.cpp
+	<stdio.h>
+	"iva.h"
+
+1509934787 /home/ivan/Escritorio/programacion/tarea 20/Tarea20/iva.h
+
+1509941941 source:/home/ivan/Escritorio/programacion/tarea 20/Tarea20/tarea 20 a.cpp
+	<stdio.h>
+
